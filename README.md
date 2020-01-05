@@ -3,7 +3,7 @@ This is a certified Nanodegree course on - `Data Science programming` at `Udacit
 More details on the Nanodegree and the project can be accessed using this Link on [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
 
 ## The Aim of the course:
-To Learn the programming fundamentals required for a career in data science using Python language. Study the relational databases and interact with them using Postgre SQL language. And use GIT version control tool to publish the work online. 
+To Learn the programming fundamentals required for a career in data science using Python language. Study the relational databases and interact with them using Postgre SQL language. And use GIT version control tool to publish the work online. By the end of the program, was able to use Python, SQL, Command Line, and Git.
 
 Created in collaboration with industry experts:
 + [Tableau Software](https://www.tableau.com/)
