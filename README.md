@@ -14,7 +14,7 @@ Created in collaboration with industry experts:
     Learned SQL fundamentals such as JOINs, Aggregations, Subqueries and advanced Window functions.
     Learned how to use SQL to answer complex business problems.
 
-    **Project 1:** [`INVESTIGATE A DATABASE`](https://github.com/vamshi-krishna-prime/Business_Analytics/tree/master/Interpret%20a%20Data%20Visualization) 
+    **Project 1:** [`INVESTIGATE A DATABASE`](https://github.com/vamshi-krishna-prime/Programming_for_Data_Science_with_Python_Nanodegree/tree/master/Project%201%20-%20Investigate%20a%20Database) 
 
   > In this project, investigated a relational database while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finished by sharing the findings.
 
@@ -33,14 +33,19 @@ Created in collaboration with industry experts:
 
 ## Instructors:
 + **Josh Bernhard** - DATA SCIENTIST AT NERD WALLET
+
 Josh has been sharing his passion for data for nearly a decade at all levels of university, and as Lead Data Science Instructor at Galvanize. He's used data science for work ranging from cancer research to process automation.
 + **Derek Steer** - CEO AT MODE
+
 Derek is the CEO of Mode Analytics. He developed an analytical foundation at Facebook and Yammer and is passionate about sharing it with future analysts. He authored SQL School and is a mentor at Insight Data Science.
 + **Juno Lee** - CURRICULUM LEAD AT UDACITY
+
 Juno is the curriculum lead for the School of Data Science. She has been sharing her passion for data and teaching, building several courses at Udacity. As a data scientist, she build recommendation engines, Computer vision and NLP models, and tools to analyze user behaviour.
 + **Richard Kalehoff** - INSTRUCTOR
+
 Richard is a Course Developer with a passion for teaching. He has a degree in Computer Science, and first worked for a nonprofit doing everything from front end web development, to back end programming, to databse and server management.
 + **Karl Krueger** - COMMAND LINE INSTRUCTOR
+
 Karl is a Course Developer at Udacity. Before joining Udacity, Karl was a Site Reliability Engineer (SRE) at Google for eight years, building automation and monitoring to keep the world's busiest web services online.
 
 ## Technologies Used:
