@@ -1,0 +1,8 @@
+Query 1 Tableau link: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Book52-sakila-top-customers-monthly-payment-activity/Sheet1
+Query 2 Tableau link: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight2-customers-distributed-over-geography/Sheet1
+Query 3 Tableau link: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight3-income-generated-based-on-film-ratings/Dashboard1
+Query 4 Tableau link: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight4-income-generated-based-on-film-length-and-category/Sheet1
+Query 5 Tableau link: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight5-income-generated-based-on-actors/Sheet1
+Query 6 Tableau link: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight6-most-popular-actors-based-on-rentals-and-income-generated/Sheet1
+Query 7 Tableau link: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight7-customer-details-with-overdue-rentals/Sheet1
+Query 8 Tableau link: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight8-rentals-of-family-films-based-on-day-of-the-week/Sheet1
