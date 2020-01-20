@@ -91,30 +91,30 @@ The project must meet all the requirements mentioned in the rubric for the submi
 
 ## Tableau Links:
 
-```sh
-Query 1: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Book52-sakila-top-customers-monthly-payment-activity/Sheet1
-```
-```sh
-Query 2: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight2-customers-distributed-over-geography/Sheet1
-```
-```sh
-Query 3: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight3-income-generated-based-on-film-ratings/Dashboard1
-```
-```sh
-Query 4: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight4-income-generated-based-on-film-length-and-category/Sheet1
-```
-```sh
-Query 5: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight5-income-generated-based-on-actors/Sheet1
-```
-```sh
-Query 6: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight6-most-popular-actors-based-on-rentals-and-income-generated/Sheet1
-```
-```sh
-Query 7: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight7-customer-details-with-overdue-rentals/Sheet1
-```
-```sh
-Query 8: https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight8-rentals-of-family-films-based-on-day-of-the-week/Sheet1
-```
+* Query 1:  [https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Book52-sakila-top-customers-monthly-payment-activity/Sheet1](https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Book52-sakila-top-customers-monthly-payment-activity/Sheet1) 
+
+
+* Query 2:  [https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight2-customers-distributed-over-geography/Sheet1](https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight2-customers-distributed-over-geography/Sheet1) 
+
+
+* Query 3:  [https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight3-income-generated-based-on-film-ratings/Dashboard1](https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight3-income-generated-based-on-film-ratings/Dashboard1) 
+
+
+* Query 4:  [https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight4-income-generated-based-on-film-length-and-category/Sheet1](https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight4-income-generated-based-on-film-length-and-category/Sheet1) 
+
+
+* Query 5:  [https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight5-income-generated-based-on-actors/Sheet1](https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight5-income-generated-based-on-actors/Sheet1)
+
+
+* Query 6:  [https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight6-most-popular-actors-based-on-rentals-and-income-generated/Sheet1](https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight6-most-popular-actors-based-on-rentals-and-income-generated/Sheet1)
+
+
+* Query 7:  [https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight7-customer-details-with-overdue-rentals/Sheet1](https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight7-customer-details-with-overdue-rentals/Sheet1)
+
+
+* Query 8:  [https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight8-rentals-of-family-films-based-on-day-of-the-week/Sheet1](https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Sakila-insight8-rentals-of-family-films-based-on-day-of-the-week/Sheet1)
+
+
 
 ## Acknowledgement:
 
