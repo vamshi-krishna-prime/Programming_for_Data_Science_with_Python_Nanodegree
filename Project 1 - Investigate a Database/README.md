@@ -91,6 +91,8 @@ The project must meet all the requirements mentioned in the rubric for the submi
 
 ## Tableau Links:
 
+The insights generated using SQL queries are presented using the Tablueu dashboards:
+
 * Query 1:  [https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Book52-sakila-top-customers-monthly-payment-activity/Sheet1](https://public.tableau.com/profile/vamshi.krishna.prime#!/vizhome/Book52-sakila-top-customers-monthly-payment-activity/Sheet1) 
 
 
