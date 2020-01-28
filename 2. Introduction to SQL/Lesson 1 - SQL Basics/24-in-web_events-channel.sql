@@ -1,5 +1,7 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
 
 Use the 'web_events' table to find all information regarding individuals who
 were contacted via the 'channel' of 'organic' or 'adwords'.
