@@ -1,5 +1,8 @@
 /*
-SQL for Udacity's BUsiness Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
+
 */
 
 SELECT *
