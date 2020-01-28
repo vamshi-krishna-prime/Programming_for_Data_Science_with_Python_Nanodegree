@@ -1,5 +1,7 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
 
 Write a query that displays the order ID, account ID, and total dollar amount
 for all the orders, sorted first by the account ID (in ascending order), and
