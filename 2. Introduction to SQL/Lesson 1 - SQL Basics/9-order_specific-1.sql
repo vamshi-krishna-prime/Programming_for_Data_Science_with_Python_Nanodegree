@@ -1,5 +1,7 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
 
 Now write a query that displays all the data relecant to a specific customer
 and order by the time stamp. Say the customer has an account_id number 4251.
