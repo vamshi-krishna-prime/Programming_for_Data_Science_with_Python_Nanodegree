@@ -1,5 +1,7 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
 
 Though SQL is not case sensitive (it doesn't care if you write your statements
 as all uppercase or lowercase), we discussed some best practices. The order of
