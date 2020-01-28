@@ -1,5 +1,7 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
 
 Create a column that divides the 'standard_amt_usd' by the 'standard_qty' to
 find the unit price for standard paper for each order. Limit the results to the
