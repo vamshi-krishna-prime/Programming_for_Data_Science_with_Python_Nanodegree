@@ -1,5 +1,7 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
 
 Use the 'accounts' table to find the account name, primary poc, and
 sales rep id for all stores except Walmart, Target, and Nordstrom.
