@@ -1,5 +1,8 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
+
 Write a query to return the highest to lowest total_amt_usd with respect to
 account_id s sorted lowest to highest.
 Include the account_id, and total_amt_usd.
