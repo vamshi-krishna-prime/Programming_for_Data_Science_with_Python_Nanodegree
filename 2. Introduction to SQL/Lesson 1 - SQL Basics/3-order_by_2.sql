@@ -1,5 +1,8 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
+
 Write a query to return the 10 earliest orders in the orders table.
 Include the id, occurred_at, and total_amt_usd.
 */
