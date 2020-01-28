@@ -1,5 +1,8 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
+
 Write a query to return the lowest 20 orders in terms of smallest total_amt_usd.
 Include the id, account_id, and total_amt_usd.
 */
