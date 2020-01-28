@@ -1,5 +1,7 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
 
 Pulls the first 5 rows and all columns from the orders table that have a
 dollar amount of gloss_amt_usd greater than or equal to 1000.
