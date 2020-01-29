@@ -1,5 +1,7 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
 
 First JOIN
 JOIN / merge 'id' column in the accounts table with 'account_id' column in the
