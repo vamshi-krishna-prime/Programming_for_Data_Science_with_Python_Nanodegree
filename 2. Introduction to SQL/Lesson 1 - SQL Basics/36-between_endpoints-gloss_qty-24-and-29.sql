@@ -1,5 +1,7 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
 
 When you use the BETWEEN operator in SQL, do the results include the values of
 your endpoints, or not? Figure out the answer to this important question by
