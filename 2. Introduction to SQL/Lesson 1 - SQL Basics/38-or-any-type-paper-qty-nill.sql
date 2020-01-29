@@ -1,5 +1,7 @@
 /*
-SQL practice in Udacity's Business Analytics Nanodegree Program
+Programming for Data Science with Python Nanodegree
+Udacity's certified program
+SQL practice > Lesson 1 : SQL Basics
 
 Imagine yourself as a 'Sales Manager' at 'Parch and Posey', You've determined
 that another great way to expand revenue is to sell new types of paper to the
