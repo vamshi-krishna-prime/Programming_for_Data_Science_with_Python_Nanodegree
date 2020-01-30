@@ -1,6 +1,6 @@
 /*
 Programming for Data Science with Python Nanodegree
-Udacity's certified program > SQL practice > Lesson 1 : SQL Basics
+Udacity's certified program > SQL practice > Lesson 2 : SQL Joins
 
 When we JOIN tables together, it is nice to give each table an alias.
 Frequently an alias is just the first letter of the table name. You actually

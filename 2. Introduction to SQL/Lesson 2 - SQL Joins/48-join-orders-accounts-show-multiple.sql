@@ -1,6 +1,6 @@
 /*
 Programming for Data Science with Python Nanodegree
-Udacity's certified program > SQL practice > Lesson 1 : SQL Basics
+Udacity's certified program > SQL practice > Lesson 2 : SQL Joins
 
 Try pulling 'standard_qty', 'gloss_qty', and 'poster_qty' from the 'orders'
 table, and the 'website' and the 'primary_poc' from the 'accounts' table.

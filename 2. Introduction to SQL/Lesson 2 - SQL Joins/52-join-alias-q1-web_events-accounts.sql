@@ -1,6 +1,6 @@
 /*
 Programming for Data Science with Python Nanodegree
-Udacity's certified program > SQL practice > Lesson 1 : SQL Basics
+Udacity's certified program > SQL practice > Lesson 2 : SQL Joins
 
 Provide a table for all 'web_events' associated with account 'name' of
 'Walmart'. There should be three columns. Be sure to include the 'primary_poc',

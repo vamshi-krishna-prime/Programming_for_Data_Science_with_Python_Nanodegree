@@ -1,6 +1,6 @@
 /*
 Programming for Data Science with Python Nanodegree
-Udacity's certified program > SQL practice > Lesson 1 : SQL Basics
+Udacity's certified program > SQL practice > Lesson 2 : SQL Joins
 
 JOIN 'orders' table and 'accounts' table using aliases and display all data
 */
