@@ -2,7 +2,7 @@
 Programming for Data Science with Python Nanodegree
 Udacity's certified program > SQL practice > Lesson 3 : SQL SubQueries
 
-SUB QUERY general format
+SUB QUERY general format:
 */
 
 SELECT *
