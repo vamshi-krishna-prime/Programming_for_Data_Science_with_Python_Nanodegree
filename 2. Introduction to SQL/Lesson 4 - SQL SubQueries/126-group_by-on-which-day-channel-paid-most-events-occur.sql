@@ -2,7 +2,7 @@
 Programming for Data Science with Python Nanodegree
 Udacity's certified program > SQL practice > Lesson 3 : SQL SubQueries
 
-On which day-channel pair did the most events occur.
+On which day-channel pair did the most events occur?
 */
 
 SELECT DATE_TRUNC('day', w.occurred_at) AS Day, w.channel AS Channel, COUNT(*) AS event_count
