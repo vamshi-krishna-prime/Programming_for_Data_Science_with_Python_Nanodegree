@@ -2,7 +2,7 @@
 Programming for Data Science with Python Nanodegree
 Udacity's certified program > SQL practice > Lesson 3 : SQL SubQueries
 
-WITH Statements:
+WITH Statements: (CTE)
 
 The WITH statement is often called a Common Table Expression or CTE. Though
 these expressions serve the exact same purpose as subqueries, they are more
