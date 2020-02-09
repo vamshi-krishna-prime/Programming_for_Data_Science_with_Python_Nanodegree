@@ -50,12 +50,15 @@ Karl is a Course Developer at Udacity. Before joining Udacity, Karl was a Site R
 
 ## Technologies Used:
 
-+ Python 3
-+ Postgre SQL
++ [Python 3.7](https://www.python.org/downloads/release/python-373/)
++ [Anaconda](https://www.anaconda.com/)
++ [Jupyter Notebook](https://jupyter.org/)
++ [Postgre SQL](https://www.postgresql.org/)
 + [Tableau](https://www.tableau.com/)
-+ EXCEL / Spreadsheets
-+ Git Version Control
-+ GitHub
++ [Microsoft EXCEL](https://products.office.com/en-in/excel)
++ [Spreadsheets](https://www.google.com/sheets/about/)
++ [Git Version Control](https://git-scm.com/)
++ [GitHub](https://github.com/)
 
 ## Acknowledgement:
 
