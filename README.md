@@ -6,7 +6,7 @@ More details on the Nanodegree and the project can be accessed using this Link o
 To Learn the programming fundamentals required for a career in data science using Python language. Study the relational databases and interact with them using Postgre SQL language. And use GIT version control tool to publish the work online. By the end of the program, was able to use Python, SQL, Command Line, and Git.
 
 Created in collaboration with industry experts:
-+ [Tableau Software](https://www.tableau.com/)
++ [Tableau](https://www.tableau.com/)
 + [Mode Analytics](https://mode.com/)
 
 ## Program Curriculam:
