@@ -1,6 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
+import json
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
@@ -225,8 +226,20 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
+        # Display raw_data
+        row = 5
+        raw_data = 'yes'
+        df['Start Time'] = df['Start Time'].dt.strftime('%Y-%m-%d %H:%M:%S')
+        # print(df.info()) for testing
+        while raw_data != 'no':
+            raw_data = input('Would you like to see raw data? ').lower()
+            # print(df.head(5).to_dict('index')) displays first 5 rows as dictionary
+            print(json.dumps(df.head(row).to_dict('index'), indent = 1))
+            row += 5
+        
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print('Python Script Terminated')
             break
 
 
