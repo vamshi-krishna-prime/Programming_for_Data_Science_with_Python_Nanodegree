@@ -3,9 +3,8 @@ import pandas as pd
 import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
-              'new york city': 'new_york_city.csv',
+              'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
-
 
 def get_filters():
     """
@@ -23,13 +22,11 @@ def get_filters():
     while city not in city_filter:
         city = input("\nFilter data by city\n[ Chicago, New York or Washington ] : ").lower()
 
-
     # get user input for month (all, january, february, ... , june)
     month = None
     month_filter = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
     while month not in month_filter:
         month = input("\nFilter data by month\n[ all, january, february, march, april, may, or june ] : ").lower()
-
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
     day = None
@@ -53,7 +50,6 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-
     print('Filters: [', city, ',', month, ',', day, ']')
 
     # load data file into a dataframe
@@ -75,12 +71,10 @@ def load_data(city, month, day):
         # filter by month to create the new dataframe
         df = df[df['month'] == month]
 
-
     # filter by day of week if applicable
     if day != 'all':
         # filter by day of week to create the new dataframe
         df = df[df['day_of_week'] == day.title()]
-
 
     return df
 
@@ -93,6 +87,7 @@ def time_stats(df):
     # convert the Start Time column to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
 
+    
     # display the most common month
     # -------------------START--------------------------
     # extract month from the Start Time column to create an month column
@@ -103,7 +98,7 @@ def time_stats(df):
     print('Most Popular Month:', popular_month)
     # --------------------END---------------------------
 
-
+    
     # display the most common day of week
     # -------------------START--------------------------
     # extract day from the Start Time column to create an day_of_week column
@@ -177,7 +172,7 @@ def trip_duration_stats(df):
     # display total travel time
     print('Total Travel Time: ', df['Trip Duration'].sum())
     # --------------------END---------------------------
-
+    
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
@@ -189,21 +184,24 @@ def user_stats(df):
     print('\nCalculating User Stats...\n')
     start_time = time.time()
 
+
+    # Display user stats
+    # -------------------START--------------------------
+    print()
     # Display counts of user types
     print('User type stats: ')
     print(df['User Type'].value_counts())
-
-
+    print()
     # Display counts of gender
     print('Gender stats: ')
     print(df['Gender'].value_counts())
-
-
+    print()
     # Display earliest, most recent, and most common year of birth
     print('Age stats: ')
     print('Earliest Birth Year   : ', int(df['Birth Year'].min()))
     print('Most recent Birth Year: ', int(df['Birth Year'].max()))
     print('Most common Birth Year: ', int(df['Birth Year'].mode()[0]))
+    # --------------------END---------------------------
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
