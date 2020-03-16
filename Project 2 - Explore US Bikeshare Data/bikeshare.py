@@ -100,6 +100,25 @@ def trip_duration_stats(df):
     print('-'*40)
 
 
+def user_stats(df):
+    """Displays statistics on bikeshare users."""
+
+    print('\nCalculating User Stats...\n')
+    start_time = time.time()
+
+    # Display counts of user types
+
+
+    # Display counts of gender
+
+
+    # Display earliest, most recent, and most common year of birth
+
+
+    print("\nThis took %s seconds." % (time.time() - start_time))
+    print('-'*40)
+
+
 def main():
     while True:
         city, month, day = get_filters()
@@ -108,6 +127,7 @@ def main():
         time_stats(df)
         station_stats(df)
         trip_duration_stats(df)
+        user_stats(df)
 
 
 if __name__ == "__main__":
