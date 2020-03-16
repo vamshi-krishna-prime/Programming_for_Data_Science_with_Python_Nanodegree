@@ -32,6 +32,10 @@ def get_filters():
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
+    day = None
+    day_filter = ['all', '1', '2', '3', '4', '5', '6', '7']
+    while day not in day_filter:
+        day = input("\nFilter data by day of the week\n['all', 'sunday as 1', 'monday as 2', ...., 'saturday as 7'] : ").lower()
 
 
     print('-'*40)
