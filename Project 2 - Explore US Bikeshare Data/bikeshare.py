@@ -90,8 +90,18 @@ def time_stats(df):
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
+    # convert the Start Time column to datetime
+    df['Start Time'] = pd.to_datetime(df['Start Time'])
 
     # display the most common month
+    # -------------------START--------------------------
+    # extract month from the Start Time column to create an month column
+    df['month'] = df['Start Time'].dt.month
+
+    # find the most most common month
+    popular_month = df['month'].mode()[0]
+    print('Most Popular Month:', popular_month)
+    # --------------------END---------------------------
 
 
     # display the most common day of week
