@@ -237,6 +237,7 @@ def main():
             print(json.dumps(df.head(row).to_dict('index'), indent = 1))
             row += 5
         
+        # Prompt to restart the data exploration
         restart = input('\nWould you like to restart? Enter (yes / no) : ').lower()
         if restart.lower() != 'yes':
             print('Python Script Terminated')
