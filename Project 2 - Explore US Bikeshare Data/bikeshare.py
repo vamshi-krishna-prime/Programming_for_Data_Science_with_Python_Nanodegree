@@ -231,13 +231,13 @@ def main():
         raw_data = 'yes'
         df['Start Time'] = df['Start Time'].dt.strftime('%Y-%m-%d %H:%M:%S')
         # print(df.info()) for testing
-        while raw_data != 'no':
-            raw_data = input('Would you like to see raw data? ').lower()
+        while raw_data == 'yes':
+            raw_data = input('Would you like to see raw data? Enter (yes / no) : ').lower()
             # print(df.head(5).to_dict('index')) displays first 5 rows as dictionary
             print(json.dumps(df.head(row).to_dict('index'), indent = 1))
             row += 5
         
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart? Enter (yes / no) : ').lower()
         if restart.lower() != 'yes':
             print('Python Script Terminated')
             break
