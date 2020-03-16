@@ -65,12 +65,32 @@ def time_stats(df):
     print('-'*40)
 
 
+def station_stats(df):
+    """Displays statistics on the most popular stations and trip."""
+
+    print('\nCalculating The Most Popular Stations and Trip...\n')
+    start_time = time.time()
+
+    # display most commonly used start station
+
+
+    # display most commonly used end station
+
+
+    # display most frequent combination of start station and end station trip
+
+
+    print("\nThis took %s seconds." % (time.time() - start_time))
+    print('-'*40)
+
+
 def main():
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
         time_stats(df)
+        station_stats(df)
 
 
 if __name__ == "__main__":
