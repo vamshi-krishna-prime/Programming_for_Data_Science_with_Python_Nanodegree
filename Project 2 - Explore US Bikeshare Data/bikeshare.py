@@ -200,6 +200,10 @@ def user_stats(df):
 
 
     # Display earliest, most recent, and most common year of birth
+    print('Age stats: ')
+    print('Earliest Birth Year   : ', int(df['Birth Year'].min()))
+    print('Most recent Birth Year: ', int(df['Birth Year'].max()))
+    print('Most common Birth Year: ', int(df['Birth Year'].mode()[0]))
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
